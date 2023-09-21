@@ -1,0 +1,45 @@
+
+
+
+body{background: linear-gradient(90deg, rgba(0,0,0,1) 0%, rgba(7,2,36,1) 35%, rgba(0,0,0,1) 100%);
+    margin: 0; }
+/*container-fluid {background: linear-gradient(90deg,  rgba(0,0,0,1)  0%, rgba(7,2,36,1) 40%, rgba(0,0,0,1)  100%);
+                 }*/
+
+header:hover{ background: linear-gradient(90deg,#20adbe 0,#43b388);}
+
+.btn {border-radius:30px; background-color: rgb(253, 129, 27); display:inline-block;}
+.btn:hover { background-color:green;}
+ a{color: aliceblue; padding: 0; text-decoration: none;}
+ a:hover{text-decoration: none; color: bisque; padding: 0;}
+
+/* h2{
+    color: black; 
+ font-family: "arial";
+ text-align: center;
+ overflow:hidden;
+ width: 100%;
+ position: relative;
+ animation: h2 5s infinite;
+  transition: all cubic-bezier(0.1, 0.7, 1.0, 0.1);
+}
+@keyframes h2 { 
+ from {
+     width: 0;
+    transition: all 2s ease-in;
+
+ } 
+
+ 
+}
+
+*/
+
+
+
+
+
+
+
+  
+ 
